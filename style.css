@@ -1,0 +1,214 @@
+.head-buttons{
+    padding: 2px;
+    border-radius: 2px;
+    font-size: smaller;
+}
+body{
+    background-color: rgba(252, 252, 252, 0.795);
+   
+}
+
+.separator{
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+
+
+li{
+    color: white;
+    display: inline;
+    margin-right: 10px;
+    border-radius: 2px;
+}
+
+
+
+.logo{
+    
+    height: 50px;
+    width: 200px;
+    /* margin-left: 20px; */
+}
+.navbar{
+    font-size: large;
+    padding-left: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+.newsline{
+    
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin-top: 10px;
+    
+}
+
+
+.introduction{
+    display: inline-block;
+    text-align: justify;
+    padding: 10px 160px 20px 160px;
+    margin: 2px;
+
+}
+
+
+
+
+
+.mainblock{
+    display: flex;
+    background-color: #316DC3;
+    max-width: 100%;
+    
+}
+.Ablock{
+    text-align: center;
+    font-size: large;
+    color: white;
+    height: 250px;
+    width: 100%;
+    padding: 55px 20px 55px 60px;   
+}
+.food{
+    width: 50px;
+    height: 40px;
+}
+.Bblock{
+    text-align: center;
+    font-size: large;
+    color: white;
+    height: 250px;
+    width: 100%; 
+    padding: 55px 20px 55px 60px;
+}
+.family{
+    width: 50px;
+    height: 40px;
+}
+.Cblock{
+    text-align: center;
+    font-size: large;
+    color: white;
+    height: 250px;
+    width: 100%;
+    padding: 55px 20px 55px 60px;
+}
+.medical{
+    width: 50px;
+    height: 40px;
+}
+.Dblock{
+    text-align: center;
+    font-size: large;
+    color: white;
+    height: 250px;
+    width: 100%;
+    padding: 55px 20px 55px 60px;
+}
+.education{
+    width: 50px;
+    height: 40px;
+}
+
+.boxes{
+    padding: 5px 50px 5px 50px;
+    display: flex;
+     max-width: 100%;
+     min-width: 800px; 
+     width: 100%;
+     /* padding-right: 33%; */
+}
+.sadqah{
+    width: 70px;
+    height: 50px;
+}
+.welfare{
+    width: 70px;
+    height: 50px;
+}
+.Medical2{
+    width: 70px;
+    height: 50px;
+}
+.dastarkhwan{
+    width: 70px;
+    height: 50px;
+}
+.roplant{
+    width: 70px;
+    height: 50px;
+}
+.Education2{
+    width: 70px;
+    height: 50px;
+}
+
+.it{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 10px;
+}
+.tharparkar{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 10px;
+}
+
+
+
+
+.gallery{
+    display: flex;
+    /* padding: 5px 60px 5px 60px; */
+
+}
+.images1{
+    width: 100%;
+    height: 150px;
+}
+.images2{
+    width: 100%;
+    height: 150px;
+}
+.images3{
+    width: 100%;
+    height: 150px;
+}
+.images4{
+    width: 100%;
+    height: 150px;
+}
+.images5{
+    width: 100%;
+    height: 150px;
+}
+
+
+
+
+h5{
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h6{
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.copy-r{
+    color: white;
+    font-size: smaller;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0px 20px 0px 80px;
+    display: flex;
+    background-color: #316DC3;
+}
